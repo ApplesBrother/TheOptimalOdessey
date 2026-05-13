@@ -36,22 +36,42 @@ By the end of this week, students should be able to:
 
 ---
 
+# Resources
+- Chapter 11,12 from CP handbook in Resources Folder.
+
+---
 # Additional Resources
-- Chapter 11 from CP handbook in Resources Folder
+- Chapter 22 (Pg no:587-611) from the book *Introduction to Algorithms, third edition, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein*
+
+---
+## CSES Practice Problems
+
+### 🟢 Beginner
+
+- [Counting Rooms](https://cses.fi/problemset/task/1192/)
+- [Building Roads](https://cses.fi/problemset/task/1666/)
+- [Message Route](https://cses.fi/problemset/task/1667/)
 
 ---
 
-# Practice Problems
+### 🟡 Intermediate
 
-## Easy
-- Graph Traversal
-- Number of Connected Components
-- Flood Fill
-
-## Medium
-- Shortest Path in Unweighted Graph
-- Cycle Detection
-- Rotten Oranges
+- [Labyrinth](https://cses.fi/problemset/task/1193/)
+- [Building Teams](https://cses.fi/problemset/task/1668/)
+- [Round Trip](https://cses.fi/problemset/task/1669/)
 
 ---
 
+### 🔴 Advanced 
+
+- [Monsters](https://cses.fi/problemset/task/1194/)
+- [Round Trip II](https://cses.fi/problemset/task/1678/) 
+
+---
+
+## ❗️ Note
+
+> **Please avoid searching or looking at the solutions.**  
+> It is highly recommended that you share your doubts, methods, progress, and problems related to the questions and/or content on the **WhatsApp group**.
+
+---
