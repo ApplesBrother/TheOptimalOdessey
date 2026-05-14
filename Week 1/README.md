@@ -44,34 +44,27 @@ By the end of this week, students should be able to:
 - Chapter 22 (Pg no:587-611) from the book *Introduction to Algorithms, third edition, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein*
 
 ---
-## CSES Practice Problems
+## Practice Problems
 
-### 🟢 Beginner
 
 - [Counting Rooms](https://cses.fi/problemset/task/1192/)
 - [Building Roads](https://cses.fi/problemset/task/1666/)
 - [Message Route](https://cses.fi/problemset/task/1667/)
-
----
-
-### 🟡 Intermediate
-
 - [Labyrinth](https://cses.fi/problemset/task/1193/)
 - [Building Teams](https://cses.fi/problemset/task/1668/)
 - [Round Trip](https://cses.fi/problemset/task/1669/)
-
----
-
-### 🔴 Advanced 
-
 - [Monsters](https://cses.fi/problemset/task/1194/)
 - [Round Trip II](https://cses.fi/problemset/task/1678/) 
-
+- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+- [Fox And Two Dots](https://codeforces.com/contest/510/problem/B)
+- [Ice Cave](https://codeforces.com/contest/540/problem/C)
+- [Kefa and Park](https://codeforces.com/contest/580/problem/C)
+- [Party](https://codeforces.com/contest/115/problem/A)
+- [Mahmoud and Ehab and the bipartiteness](https://codeforces.com/contest/862/problem/B)
 ---
-
+Useful extensions while solving codeforces problems: [Competitive Companion](https://chromewebstore.google.com/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl?hl=en-GB&utm_source=ext_sidebar)
 ## ❗️ Note
 
-> **Please avoid searching or looking at the solutions.**  
 > It is highly recommended that you share your doubts, methods, progress, and problems related to the questions and/or content on the **WhatsApp group**.
 
 ---
