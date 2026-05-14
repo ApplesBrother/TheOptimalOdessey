@@ -37,11 +37,11 @@ By the end of this week, students should be able to:
 ---
 
 # Resources
-- Chapter 1,2,4,11,12 from CP handbook in Resources Folder.
+- Chapter 1,2,4,11,12 from [CP Handbook](https://github.com/Vivek-commits135/Soc-2026-The-Optimal-Odessey/blob/main/Resources/cp_handbook.pdf).
 
 ---
 # Additional Resources
-- Chapter 22 (Pg no:587-611) from the book *Introduction to Algorithms, third edition, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein*
+- Chapter 22 (Pg no:587-611) from the book [Introduction to Algorithms](https://github.com/Vivek-commits135/Soc-2026-The-Optimal-Odessey/blob/main/Resources/Cormen%20Introduction%20to%20Algorithms.pdf)
 
 ---
 ## Practice Problems
